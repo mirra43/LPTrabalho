@@ -1,20 +1,27 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package lpprojeto;
 
 import java.util.Date;
 import java.util.List;
 
 /**
- *
- * @author andre
- */
+ * 
+ *   <h1>Class Venda </h1>
+ * 
+ * <p>
+ * 
+*  Nesta class estao definidos os parametros que permitem criar uma venda.
+* 
+*
+* @author Andre Costa
+* @version 1.0
+* @since 2022-03-20
+* 
+* 
+*/
 public class Venda {
     
-     int num_venda;
+    int num_venda;
     Date data_venda;
     float valor;
     List<Artigos> artigos;
