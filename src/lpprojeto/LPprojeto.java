@@ -16,6 +16,8 @@ public class LPprojeto {
      */
     public static void main(String[] args) {
         System.out.println("ipuaehfipushgoçaerg");
+        
+        System.out.println("Ola sou o andre");
     }
     
 }
