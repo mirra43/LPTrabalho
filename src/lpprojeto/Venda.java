@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * 
- *   <h1>Class Venda </h1>
+ * <h1>Class Venda </h1>
  * 
  * <p>
  * 
@@ -59,6 +59,11 @@ public class Venda {
      */
     public Date getData(){
         return data_venda;
+    }
+    
+    
+    public String testeAndre(){
+       return "testeAndre";
     }
 
 }
