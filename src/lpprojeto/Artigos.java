@@ -2,7 +2,6 @@
 package lpprojeto;
 
 
-
 /**
  * 
  *  <h1>Class Artigos </h1>

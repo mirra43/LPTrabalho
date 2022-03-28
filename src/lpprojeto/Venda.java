@@ -61,9 +61,4 @@ public class Venda {
         return data_venda;
     }
     
-    
-    public String testeAndre(){
-       return "testeAndre";
-    }
-
 }
