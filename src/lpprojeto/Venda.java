@@ -61,4 +61,8 @@ public class Venda {
         return data_venda;
     }
     
+    public void teste(){
+        System.out.println("teste");
+    }
+    
 }
