@@ -22,4 +22,8 @@ class Aresta {
         
     }
     
+    public void Mariana(){
+        System.out.println("Mariana");
+    }
+    
 }
