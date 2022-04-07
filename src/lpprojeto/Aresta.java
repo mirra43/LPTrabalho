@@ -22,4 +22,9 @@ class Aresta {
         
     }
     
+    public void andre(){
+        System.out.println("Andre");
+    }
+    
+    
 }
