@@ -21,5 +21,8 @@ class Aresta {
         seguinte=null;
         
     }
+    public void mirra(){
+        System.out.println("Mirra");
+    }
     
 }
