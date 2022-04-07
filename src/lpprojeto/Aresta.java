@@ -21,6 +21,9 @@ class Aresta {
         seguinte=null;
         
     }
+    public void mirra(){
+        System.out.println("Mirra");
+    }
     
     public void Mariana(){
         System.out.println("Mariana");
